@@ -8,3 +8,6 @@ git commit -m "ejercicio1.java"		#crear commit
 git log 		#lista los commit
 git status
 
+git branch -M main		#cambiar nombre master a main
+git remote add origin https://github.com/sergioruedaas/Java.git		#enlazar con repo remoto 
+git push -u origin main		#publicar en github
